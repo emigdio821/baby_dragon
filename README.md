@@ -1,2 +1,2 @@
-# baby_dragon
+# Baby Dragon
 Just a Tamagotchi oriented game using Ruby.
